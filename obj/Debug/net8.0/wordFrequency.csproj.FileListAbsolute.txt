@@ -1,0 +1,14 @@
+C:\Users\user\workspace\csharp\wordFrequency\bin\Debug\net8.0\wordFrequency.exe
+C:\Users\user\workspace\csharp\wordFrequency\bin\Debug\net8.0\wordFrequency.deps.json
+C:\Users\user\workspace\csharp\wordFrequency\bin\Debug\net8.0\wordFrequency.runtimeconfig.json
+C:\Users\user\workspace\csharp\wordFrequency\bin\Debug\net8.0\wordFrequency.dll
+C:\Users\user\workspace\csharp\wordFrequency\bin\Debug\net8.0\wordFrequency.pdb
+C:\Users\user\workspace\csharp\wordFrequency\obj\Debug\net8.0\wordFrequency.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\workspace\csharp\wordFrequency\obj\Debug\net8.0\wordFrequency.AssemblyInfoInputs.cache
+C:\Users\user\workspace\csharp\wordFrequency\obj\Debug\net8.0\wordFrequency.AssemblyInfo.cs
+C:\Users\user\workspace\csharp\wordFrequency\obj\Debug\net8.0\wordFrequency.csproj.CoreCompileInputs.cache
+C:\Users\user\workspace\csharp\wordFrequency\obj\Debug\net8.0\wordFrequency.dll
+C:\Users\user\workspace\csharp\wordFrequency\obj\Debug\net8.0\refint\wordFrequency.dll
+C:\Users\user\workspace\csharp\wordFrequency\obj\Debug\net8.0\wordFrequency.pdb
+C:\Users\user\workspace\csharp\wordFrequency\obj\Debug\net8.0\wordFrequency.genruntimeconfig.cache
+C:\Users\user\workspace\csharp\wordFrequency\obj\Debug\net8.0\ref\wordFrequency.dll

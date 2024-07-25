@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "wordFrequency/1.0.0": {
+        "runtime": {
+          "wordFrequency.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "wordFrequency/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
